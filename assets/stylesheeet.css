@@ -1,0 +1,59 @@
+header .navbar{
+    background-color: rgba(44, 62, 80, 1);
+    color: white;
+}
+/* .start, .about{
+    background-color: rgba(26, 188, 156, 1);
+} */
+.bg-light {
+    --bs-bg-opacity: 1;
+    /* background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity))!important; */
+}
+nav{
+    background-color: rgba(44, 62, 80, 1);
+}
+
+.bg-green-light{
+    background-color: rgba(26, 188, 156, 1);
+    color: white;
+}
+.text-green{
+    color: rgba(26, 188, 156, 1);
+}
+
+.bg-dark-blue{
+    background-color: rgba(58, 84, 109, 1);
+    color: white;
+}
+.bg-dark-blue-2{
+    background-color: rgba(44, 62, 80, 1);
+    color: white;
+}
+.img-fluid {
+    max-width: 50%;
+    height: auto;
+}
+ul li{
+    list-style-type: none;
+    display: inline;
+}
+/* col-4 img{
+    height: 100%;
+    
+} */
+.linea {
+    width: 14%;
+    height: 4px;
+}
+
+.send{
+
+}
+.social-logo i{
+    margin: 0 2px;
+    font-size: 19px;
+}
+footer .row{
+    padding: 2rem 76px;
+
+}
